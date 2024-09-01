@@ -1,0 +1,2 @@
+rescan
+tcc vgmconv.c
